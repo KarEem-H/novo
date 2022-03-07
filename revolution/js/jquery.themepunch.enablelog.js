@@ -1,0 +1,1 @@
+/* Invalid character(s) 'window.tplogs = true;' at 1:0. Ignoring. */

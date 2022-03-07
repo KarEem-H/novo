@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /images/qr-links/
+Disallow: /hybrid/
+Disallow: thank-you.php
+Disallow: https://laundry.higitech.me/

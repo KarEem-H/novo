@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<Crm xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Country="AE" Name="hybrid_crm" Version="1">
+  <Number Prefix="Zeros" MaxLength="" />
+  <Connection MaxConcurrentRequests="2" />
+  <Parameters>
+    <Parameter Name="CreateContactEnabled" Type="Boolean" Editor="String" Title="Enable Contact Creation" Default="False" />
+    <Parameter Name="CreateContactFirstName" Type="String" Parent="CreateContactEnabled" Editor="String" Title="New Contact First Name:" Default="New" />
+    <Parameter Name="CreateContactLastName" Type="String" Parent="CreateContactEnabled" Editor="String" Title="New Contact Last Name:" Default="3CX Contact [Number]" />
+    <Parameter Name="ReportCallEnabled" Type="Boolean" Editor="String" Title="Enable Call Journaling" Default="False" />
+    <Parameter Name="Subject" Type="String" Parent="ReportCallEnabled" Editor="String" Title="Call Subject:" Default="3CX PhoneSystem Call" />
+    <Parameter Name="InboundCallText" Type="String" Parent="ReportCallEnabled" Editor="String" Title="Answered Inbound Call:" Default="[DateTime]: Answered incoming call from [Number] to [Agent] ([Duration])" />
+    <Parameter Name="MissedCallText" Type="String" Parent="ReportCallEnabled" Editor="String" Title="Missed Call:" Default="[DateTime]: Missed call from [Number] to [Agent]" />
+    <Parameter Name="OutboundCallText" Type="String" Parent="ReportCallEnabled" Editor="String" Title="Answered Outbound Call:" Default="[DateTime]: Answered outgoing call from [Agent] to [Number] ([Duration])" />
+    <Parameter Name="NotAnsweredOutboundCallText" Type="String" Parent="ReportCallEnabled" Editor="String" Title="Unanswered Outbound Call:" Default="[DateTime]: Unanswered outgoing call from [Agent] to [Number]" />
+  </Parameters>
+  <Authentication Type="No" />
+  <Scenarios>
+    <Scenario Id="" Type="REST">
+      <Request Url="http://whitespots-cleaning.com/telesales_dashboard/create_bookings.php?number=[Number]" MessagePasses="0" RequestEncoding="UrlEncoded" RequestType="Get" ResponseType="Json" />
+      <Rules>
+        <Rule Type="Any">contactid</Rule>
+      </Rules>
+      <Variables>
+        <Variable Name="ContactID" Path="contactid">
+          <Filter />
+        </Variable>
+        <Variable Name="FirstName" Path="firstname">
+          <Filter />
+        </Variable>
+        <Variable Name="PhoneMobile" Path="phonemobile">
+          <Filter />
+        </Variable>
+      </Variables>
+      <Outputs AllowEmpty="false">
+        <Output Type="ContactID" Passes="0" Value="[ContactID]" />
+        <Output Type="FirstName" Passes="0" Value="[FirstName]" />
+        <Output Type="PhoneMobile" Passes="0" Value="[PhoneMobile]" />
+        <Output Type="ContactUrl" Passes="0" Value="http://whitespots-cleaning.com/telesales_dashboard/create_bookings.php?customer_id=[ContactID]" />
+      </Outputs>
+    </Scenario>
+    <Scenario Id="CreateContactRecord" Type="REST">
+      <Request SkipIf="[CreateContactEnabled]!=True" Url="http://whitespots-cleaning.com/telesales_dashboard/create_bookings.php" MessagePasses="0" RequestContentType="application/json" RequestEncoding="UrlEncoded" RequestType="Post" ResponseType="Json">
+        <PostValues Key="">
+          <Value Key="firstname" Passes="1" Type="String">3CX contact</Value>
+          <Value Key="phone" Passes="1" Type="String">[Number]</Value>
+        </PostValues>
+      </Request>
+      <Rules>
+        <Rule Type="Number">phonemobile</Rule>
+      </Rules>
+      <Variables>
+        <Variable Name="ContactID" Path="contactid">
+          <Filter />
+        </Variable>
+        <Variable Name="FirstName" Path="firstname">
+          <Filter />
+        </Variable>
+        <Variable Name="PhoneMobile" Path="phonemobile">
+          <Filter />
+        </Variable>
+      </Variables>
+      <Outputs AllowEmpty="false">
+        <Output Type="ContactID" Passes="0" Value="[ContactID]" />
+        <Output Type="FirstName" Passes="0" Value="[FirstName]" />
+        <Output Type="PhoneMobile" Passes="0" Value="[PhoneMobile]" />
+        <Output Type="ContactUrl" Passes="0" Value="http://whitespots-cleaning.com/telesales_dashboard/create_bookings.php?customer_id=[ContactID]" />
+      </Outputs>
+    </Scenario>
+    <Scenario Id="ReportCall" Type="REST">
+      <Request SkipIf="[ReportCallEnabled]!=True||[CallType]!=Inbound" Url="http://whitespots-cleaning.com/telesales_dashboard/ajax/create_calls.php" MessagePasses="0" RequestContentType="application/json" RequestEncoding="Json" RequestType="Post" ResponseType="Json">
+        <PostValues Key="">
+          <Value Key="callduration" Passes="1" Type="String">[Duration]</Value>
+          <Value Key="contactnumber" Passes="1" Type="String">[Number]</Value>
+          <Value Key="agentextension" Passes="1" Type="String">[Agent]</Value>
+          <Value Key="description" Passes="1" Type="String">Inbound Call</Value>
+          <Value Key="calldatetime" Passes="1" Type="String">[DateTime]</Value>
+        </PostValues>
+      </Request>
+      <Variables />
+      <Outputs Next="ReportCallMissed" AllowEmpty="false" />
+    </Scenario>
+    <Scenario Id="ReportCallMissed" Type="REST">
+      <Request SkipIf="[ReportCallEnabled]!=True||[CallType]!=Missed" Url="http://whitespots-cleaning.com/telesales_dashboard/ajax/create_calls.php" MessagePasses="0" RequestContentType="application/json" RequestEncoding="Json" RequestType="Post" ResponseType="Json">
+        <PostValues Key="">
+          <Value Key="callduration" Passes="1" Type="String">[Duration]</Value>
+          <Value Key="contactnumber" Passes="1" Type="String">[Number]</Value>
+          <Value Key="agentextension" Passes="1" Type="String">[Agent]</Value>
+          <Value Key="description" Passes="2" Type="String">[MissedCallText]</Value>
+          <Value Key="calldatetime" Passes="1" Type="String">[DateTime]</Value>
+        </PostValues>
+      </Request>
+      <Variables />
+      <Outputs Next="ReportCallOutbound" AllowEmpty="false" />
+    </Scenario>
+    <Scenario Id="ReportCallOutbound" Type="REST">
+      <Request SkipIf="[ReportCallEnabled]!=True||[CallType]!=Outbound" Url="http://whitespots-cleaning.com/telesales_dashboard/ajax/create_calls.php" MessagePasses="0" Message="" RequestContentType="application/json" RequestEncoding="Json" RequestType="Post" ResponseType="Json">
+        <PostValues Key="">
+          <Value Key="callduration" Passes="1" Type="String">[Duration]</Value>
+          <Value Key="contactnumber" Passes="1" Type="String">[Number]</Value>
+          <Value Key="agentextension" Passes="1" Type="String">[Agent]</Value>
+          <Value Key="description" Passes="1" Type="String">Outbound Call</Value>
+          <Value Key="calldatetime" Passes="1" Type="String">[DateTime]</Value>
+        </PostValues>
+      </Request>
+      <Variables />
+      <Outputs Next="ReportCallNotanswered" AllowEmpty="false" />
+    </Scenario>
+    <Scenario Id="ReportCallNotanswered" Type="REST">
+      <Request SkipIf="[ReportCallEnabled]!=True||[CallType]!=Notanswered" Url="http://whitespots-cleaning.com/telesales_dashboard/ajax/create_calls.php" MessagePasses="0" RequestContentType="application/json" RequestEncoding="Json" RequestType="Post" ResponseType="Json">
+        <PostValues Key="">
+          <Value Key="callduration" Passes="1" Type="String">[Duration]</Value>
+          <Value Key="contactnumber" Passes="1" Type="String">[Number]</Value>
+          <Value Key="agentextension" Passes="1" Type="String">[Agent]</Value>
+          <Value Key="description" Passes="2" Type="String">[NotAnsweredOutboundCallText]</Value>
+          <Value Key="calldatetime" Passes="1" Type="String">[DateTime]</Value>
+        </PostValues>
+      </Request>
+      <Variables />
+      <Outputs AllowEmpty="false" />
+    </Scenario>
+  </Scenarios>
+</Crm>

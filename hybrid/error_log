@@ -1,0 +1,395 @@
+[22-Jan-2020 17:32:34 Asia/Dubai] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/u18czoba1wax/public_html/test.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/u18czoba1wax/public_html/test.php on line 114
+[22-Jan-2020 17:34:22 Asia/Dubai] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/u18czoba1wax/public_html/test.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/u18czoba1wax/public_html/test.php on line 114
+[22-Jan-2020 13:35:24 UTC] PHP Warning:  require_once(/home/u18czoba1wax/public_html/composer/autoload_real.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/autoload.php on line 5
+[22-Jan-2020 13:35:24 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/u18czoba1wax/public_html/composer/autoload_real.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/autoload.php on line 5
+[22-Jan-2020 17:37:42 Asia/Dubai] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/u18czoba1wax/public_html/test.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/u18czoba1wax/public_html/test.php on line 114
+[22-Jan-2020 17:37:55 Asia/Dubai] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer' not found in /home/u18czoba1wax/public_html/test.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/u18czoba1wax/public_html/test.php on line 114
+[22-Jan-2020 17:37:56 Asia/Dubai] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer' not found in /home/u18czoba1wax/public_html/test.php:114
+Stack trace:
+#0 {main}
+  thrown in /home/u18czoba1wax/public_html/test.php on line 114
+[22-Jan-2020 17:38:04 Asia/Dubai] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer' not found in /home/u18czoba1wax/public_html/test.php:113
+Stack trace:
+#0 {main}
+  thrown in /home/u18czoba1wax/public_html/test.php on line 113
+[22-Jan-2020 13:56:30 UTC] PHP Warning:  require_once(SendPdf.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 5
+[22-Jan-2020 13:56:30 UTC] PHP Fatal error:  require_once(): Failed opening required 'SendPdf.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 5
+[22-Jan-2020 13:57:29 UTC] PHP Warning:  require_once(SendPdf.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 5
+[22-Jan-2020 13:57:29 UTC] PHP Fatal error:  require_once(): Failed opening required 'SendPdf.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 5
+[22-Jan-2020 13:58:18 UTC] PHP Warning:  require_once(SendPdf.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 5
+[22-Jan-2020 13:58:18 UTC] PHP Fatal error:  require_once(): Failed opening required 'SendPdf.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 5
+[22-Jan-2020 14:03:10 UTC] PHP Warning:  include(../config/connection.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 3
+[22-Jan-2020 14:03:10 UTC] PHP Warning:  include(): Failed opening '../config/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 3
+[22-Jan-2020 18:03:10 Asia/Dubai] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/u18czoba1wax/public_html/test.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/u18czoba1wax/public_html/test.php on line 75
+[22-Jan-2020 14:03:59 UTC] PHP Warning:  include(../config/connection.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 3
+[22-Jan-2020 14:03:59 UTC] PHP Warning:  include(): Failed opening '../config/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 3
+[22-Jan-2020 18:03:59 Asia/Dubai] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/u18czoba1wax/public_html/test.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/u18czoba1wax/public_html/test.php on line 75
+[22-Jan-2020 14:05:16 UTC] PHP Warning:  include(../config/connection.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 3
+[22-Jan-2020 14:05:16 UTC] PHP Warning:  include(): Failed opening '../config/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 3
+[22-Jan-2020 14:06:25 UTC] PHP Warning:  include(../config/connection.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 3
+[22-Jan-2020 14:06:25 UTC] PHP Warning:  include(): Failed opening '../config/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 3
+[22-Jan-2020 18:06:25 Asia/Dubai] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/u18czoba1wax/public_html/test.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/u18czoba1wax/public_html/test.php on line 75
+[22-Jan-2020 14:07:26 UTC] PHP Warning:  include(../config/connection.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 3
+[22-Jan-2020 14:07:26 UTC] PHP Warning:  include(): Failed opening '../config/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 3
+[22-Jan-2020 18:07:26 Asia/Dubai] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/u18czoba1wax/public_html/test.php:75
+Stack trace:
+#0 {main}
+  thrown in /home/u18czoba1wax/public_html/test.php on line 75
+[22-Jan-2020 14:15:08 UTC] PHP Warning:  include(../config/connection.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 3
+[22-Jan-2020 14:15:08 UTC] PHP Warning:  include(): Failed opening '../config/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 3
+[22-Jan-2020 18:15:08 Asia/Dubai] PHP Notice:  Undefined variable: mail in /home/u18czoba1wax/public_html/test.php on line 94
+[22-Jan-2020 18:15:08 Asia/Dubai] PHP Fatal error:  Uncaught Error: Call to a member function setFrom() on null in /home/u18czoba1wax/public_html/test.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/u18czoba1wax/public_html/test.php on line 94
+[22-Jan-2020 14:15:24 UTC] PHP Warning:  include(../config/connection.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 3
+[22-Jan-2020 14:15:24 UTC] PHP Warning:  include(): Failed opening '../config/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 3
+[22-Jan-2020 18:15:24 Asia/Dubai] PHP Notice:  Undefined variable: mail in /home/u18czoba1wax/public_html/test.php on line 94
+[22-Jan-2020 18:15:24 Asia/Dubai] PHP Fatal error:  Uncaught Error: Call to a member function setFrom() on null in /home/u18czoba1wax/public_html/test.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/u18czoba1wax/public_html/test.php on line 94
+[22-Jan-2020 14:16:01 UTC] PHP Warning:  include(../config/connection.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 3
+[22-Jan-2020 14:16:01 UTC] PHP Warning:  include(): Failed opening '../config/connection.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 3
+[22-Jan-2020 18:16:01 Asia/Dubai] PHP Notice:  Undefined variable: mail in /home/u18czoba1wax/public_html/test.php on line 91
+[22-Jan-2020 18:16:01 Asia/Dubai] PHP Fatal error:  Uncaught Error: Call to a member function setFrom() on null in /home/u18czoba1wax/public_html/test.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/u18czoba1wax/public_html/test.php on line 91
+[22-Jan-2020 18:16:47 Asia/Dubai] PHP Notice:  Undefined variable: mail in /home/u18czoba1wax/public_html/test.php on line 91
+[22-Jan-2020 18:16:47 Asia/Dubai] PHP Fatal error:  Uncaught Error: Call to a member function setFrom() on null in /home/u18czoba1wax/public_html/test.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/u18czoba1wax/public_html/test.php on line 91
+[22-Jan-2020 18:17:58 Asia/Dubai] PHP Notice:  Undefined variable: mail in /home/u18czoba1wax/public_html/test.php on line 91
+[22-Jan-2020 18:17:58 Asia/Dubai] PHP Fatal error:  Uncaught Error: Call to a member function setFrom() on null in /home/u18czoba1wax/public_html/test.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/u18czoba1wax/public_html/test.php on line 91
+[23-Jan-2020 09:28:14 Asia/Dubai] PHP Notice:  Undefined variable: mail in /home/u18czoba1wax/public_html/test.php on line 91
+[23-Jan-2020 09:28:14 Asia/Dubai] PHP Fatal error:  Uncaught Error: Call to a member function setFrom() on null in /home/u18czoba1wax/public_html/test.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/u18czoba1wax/public_html/test.php on line 91
+[23-Jan-2020 09:28:31 Asia/Dubai] PHP Notice:  Undefined variable: mail in /home/u18czoba1wax/public_html/test.php on line 91
+[23-Jan-2020 09:28:31 Asia/Dubai] PHP Fatal error:  Uncaught Error: Call to a member function setFrom() on null in /home/u18czoba1wax/public_html/test.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/u18czoba1wax/public_html/test.php on line 91
+[23-Jan-2020 09:33:10 Asia/Dubai] PHP Notice:  Undefined variable: mail in /home/u18czoba1wax/public_html/test.php on line 91
+[23-Jan-2020 09:33:10 Asia/Dubai] PHP Fatal error:  Uncaught Error: Call to a member function setFrom() on null in /home/u18czoba1wax/public_html/test.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/u18czoba1wax/public_html/test.php on line 91
+[23-Jan-2020 05:50:13 UTC] PHP Warning:  require(/home/u18czoba1wax/public_html/vendor/autoload.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 8
+[23-Jan-2020 05:50:13 UTC] PHP Fatal error:  require(): Failed opening required '/home/u18czoba1wax/public_html/vendor/autoload.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 8
+[23-Jan-2020 08:42:18 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 08:42:18 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 08:42:44 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 08:42:44 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 08:43:19 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 08:43:19 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 08:47:49 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 08:47:49 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 08:47:53 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 08:47:53 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 08:48:34 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 08:48:34 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 08:50:03 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 08:50:03 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 08:51:59 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 08:51:59 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 08:54:31 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 08:54:31 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 08:55:58 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 08:55:58 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 08:57:54 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 08:57:54 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 08:58:19 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 08:58:19 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 08:58:30 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 08:58:30 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 08:59:12 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 08:59:12 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:00:02 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:00:02 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:03:07 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:03:07 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:06:21 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:06:21 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:11:36 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:11:36 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:12:14 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:12:14 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:13:24 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:13:24 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:15:16 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:15:16 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:18:53 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:18:53 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:19:22 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:19:22 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:21:06 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:21:06 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:21:55 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:21:55 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:23:28 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:23:28 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:24:07 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:24:07 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:24:38 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:24:38 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:25:56 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:25:56 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:26:01 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:26:01 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:26:57 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:26:57 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:30:17 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:30:17 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:32:10 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:32:10 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:33:19 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:33:19 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:41:47 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:41:47 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:43:15 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 09:43:15 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 11:15:23 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 11:15:23 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 11:16:47 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 11:16:47 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 11:18:18 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 11:18:18 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 11:23:30 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 11:23:30 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 11:24:31 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 11:24:31 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 11:25:59 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 11:25:59 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 11:26:49 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 11:26:49 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 11:28:16 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 11:28:16 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 12:31:14 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 12:31:14 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 12:32:05 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 12:32:05 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 12:33:06 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 12:33:06 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 12:35:06 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 12:35:06 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 12:36:57 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 12:36:57 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 12:38:34 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 12:38:34 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 12:42:36 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 12:42:36 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 12:43:45 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/u18czoba1wax/public_html/test.php on line 123
+[23-Jan-2020 12:44:27 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 12:44:27 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 12:46:39 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 12:46:39 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 12:56:52 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 12:56:52 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 12:58:58 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 12:58:58 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:02:38 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:02:38 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:03:33 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:03:33 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:04:29 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:04:29 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:05:04 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:05:04 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:05:48 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:05:48 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:07:12 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:07:12 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:08:58 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:08:58 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:09:36 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:09:36 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:10:32 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:10:32 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:11:31 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:11:31 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:12:18 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:12:18 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:12:45 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:12:45 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:13:18 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:13:18 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:13:52 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:13:52 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:16:46 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:16:46 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:41:21 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:41:21 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:46:15 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:46:15 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:48:59 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:48:59 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:51:14 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:51:14 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:56:33 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:56:33 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:56:33 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:56:33 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:58:41 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/test.php on line 1
+[23-Jan-2020 13:58:41 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/test.php on line 1
+[13-Feb-2020 13:09:45 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:09:45 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:10:35 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:10:35 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:10:49 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:10:49 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:11:15 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:11:15 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:25:52 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:25:52 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:25:52 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:25:52 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:26:10 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:26:10 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:27:40 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:27:40 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:28:16 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:28:16 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:28:34 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:28:35 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:29:00 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:29:00 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:29:14 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:29:14 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:29:57 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:29:57 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:30:48 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:30:48 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:31:25 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:31:25 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:43:18 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:43:18 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:43:40 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:43:40 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:43:51 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:43:51 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:44:02 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:44:02 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:44:13 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:44:13 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:44:24 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:44:24 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:44:44 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:44:44 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:45:06 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:45:06 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:45:27 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:45:27 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:45:38 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:45:38 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:45:51 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:45:51 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:46:02 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:46:02 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:49:38 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:49:38 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:49:51 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:49:51 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:50:03 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:50:03 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:50:14 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:50:14 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:50:32 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:50:32 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:50:52 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:50:52 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:51:10 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:51:10 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:51:33 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:51:33 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:51:57 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:51:57 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:52:08 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:52:08 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:52:19 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:52:19 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:52:45 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:52:45 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:52:58 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:52:58 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:53:10 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:53:10 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:53:29 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:53:29 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:53:42 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:53:42 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:54:04 UTC] PHP Warning:  include(/home/u18czoba1wax/public_htmlheader.php): failed to open stream: No such file or directory in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[13-Feb-2020 13:54:04 UTC] PHP Warning:  include(): Failed opening '/home/u18czoba1wax/public_htmlheader.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/u18czoba1wax/public_html/send_invoice_pdf.php on line 3
+[31-Aug-2020 07:01:23 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/u18czoba1wax/public_html/telesales_dashboard/users.php on line 111
+[28-Oct-2020 14:08:21 UTC] PHP Notice:  Undefined variable: conn in /home/u18czoba1wax/public_html/telesales_dashboard/test.php on line 3
+[28-Oct-2020 14:08:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/u18czoba1wax/public_html/telesales_dashboard/test.php on line 3
+[28-Oct-2020 14:08:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/u18czoba1wax/public_html/telesales_dashboard/test.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/u18czoba1wax/public_html/telesales_dashboard/test.php on line 5
+[15-Nov-2020 14:00:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u18czoba1wax/public_html/telesales_dashboard/auto_dialer_report.php on line 253
+[15-Nov-2020 14:00:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u18czoba1wax/public_html/telesales_dashboard/auto_dialer_report.php on line 253
+[15-Nov-2020 14:00:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u18czoba1wax/public_html/telesales_dashboard/auto_dialer_report.php on line 253
+[15-Nov-2020 14:01:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u18czoba1wax/public_html/telesales_dashboard/auto_dialer_report.php on line 253
+[15-Nov-2020 14:01:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u18czoba1wax/public_html/telesales_dashboard/auto_dialer_report.php on line 253
+[15-Nov-2020 14:01:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u18czoba1wax/public_html/telesales_dashboard/auto_dialer_report.php on line 253
+[15-Nov-2020 14:01:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u18czoba1wax/public_html/telesales_dashboard/auto_dialer_report.php on line 253
+[15-Nov-2020 14:01:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u18czoba1wax/public_html/telesales_dashboard/auto_dialer_report.php on line 253
+[15-Nov-2020 14:01:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/u18czoba1wax/public_html/telesales_dashboard/auto_dialer_report.php on line 253
+[22-Dec-2020 12:41:44 Asia/Dubai] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/u18czoba1wax/public_html/telesales_dashboard/whitespot_api_sample.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/u18czoba1wax/public_html/telesales_dashboard/whitespot_api_sample.php on line 21
+[22-Dec-2020 12:58:09 Asia/Dubai] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/u18czoba1wax/public_html/telesales_dashboard/whitespot_api_sample.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/u18czoba1wax/public_html/telesales_dashboard/whitespot_api_sample.php on line 21
+[22-Dec-2020 13:05:14 Asia/Dubai] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/u18czoba1wax/public_html/telesales_dashboard/whitespot_api_sample.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/u18czoba1wax/public_html/telesales_dashboard/whitespot_api_sample.php on line 21
+[22-Dec-2020 13:07:24 Asia/Dubai] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/u18czoba1wax/public_html/telesales_dashboard/whitespot_api_sample.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/u18czoba1wax/public_html/telesales_dashboard/whitespot_api_sample.php on line 21
+[22-Dec-2020 13:10:22 Asia/Dubai] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/u18czoba1wax/public_html/telesales_dashboard/whitespot_api_sample.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/u18czoba1wax/public_html/telesales_dashboard/whitespot_api_sample.php on line 21
+[07-Mar-2021 11:45:40 UTC] PHP Fatal error:  Cannot use [] for reading in /home/u18czoba1wax/public_html/telesales_dashboard/test.php on line 29
+[07-Mar-2021 11:45:57 UTC] PHP Fatal error:  Cannot use [] for reading in /home/u18czoba1wax/public_html/telesales_dashboard/test.php on line 29
+[28-Apr-2021 06:16:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on '172.31.18.153' (110) in /home/u18czoba1wax/public_html/telesales_dashboard/test.php on line 12
+[28-Apr-2021 06:30:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host '172.31.18.153:66.235.200.147' (0) in /home/u18czoba1wax/public_html/telesales_dashboard/test.php on line 12
+[28-Apr-2021 06:31:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on '66.235.200.147' (110) in /home/u18czoba1wax/public_html/telesales_dashboard/test.php on line 12
+[10-May-2021 08:13:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host '52.39.194.54:60001' (0) in /home/u18czoba1wax/public_html/telesales_dashboard/test.php on line 12
+[10-May-2021 08:14:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host '52.39.194.54:60001' (0) in /home/u18czoba1wax/public_html/telesales_dashboard/test.php on line 12
+[10-May-2021 08:14:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host '52.39.194.54:6000' (0) in /home/u18czoba1wax/public_html/telesales_dashboard/test.php on line 12
+[10-May-2021 08:14:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/2005): Unknown MySQL server host '52.39.194.54:6005' (0) in /home/u18czoba1wax/public_html/telesales_dashboard/test.php on line 12
+[10-May-2021 08:14:39 UTC] PHP Warning:  mysqli::__construct(): (HY000/2003): Can't connect to MySQL server on '52.39.194.54' (111) in /home/u18czoba1wax/public_html/telesales_dashboard/test.php on line 12

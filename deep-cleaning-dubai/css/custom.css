@@ -1,0 +1,20 @@
+/*============================================================================================*/
+/* Your custom styles below */
+/*============================================================================================*/
+.payment_button:hover{
+
+	border:1px solid #2abfaa !important;
+	cursor: pointer;
+
+}
+
+.checked{
+	background-color: #2abfaa !important;
+	color: #ffffff !important;
+	
+}
+
+.payment_summary{
+	font-size: 16px;
+	font-weight: 400;
+}
