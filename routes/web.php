@@ -16,6 +16,9 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
+Route::get('/', function () {
+    return view('home.index');
+});
 
 Route::get('login/{service}', 'Auth\LoginController@redirectToProvider');
 Route::get('login/{service}/callback', 'Auth\LoginController@handleProviderCallback');
@@ -44,7 +47,7 @@ Route::get('firebase/sw-js', 'AppSettingController@initFirebase');
 Route::get('storage/app/public/{id}/{conversion}/{filename?}', 'UploadController@storage');
 Route::middleware('auth')->group(function () {
     Route::get('logs', '\Rap2hpoutre\LaravelLogViewer\LogViewerController@index');
-    Route::get('/', 'DashboardController@index')->name('dashboard');
+    Route::get('/dashboard', 'DashboardController@index')->name('dashboard');
 
     Route::post('uploads/store', 'UploadController@store')->name('medias.create');
     Route::get('users/profile', 'UserController@profile')->name('users.profile');
@@ -175,5 +178,6 @@ Route::middleware('auth')->group(function () {
     Route::resource('slides', 'SlideController')->except([
         'show'
     ]);
+    Route::resource('customPages', 'CustomPageController');
     Route::resource('customPages', 'CustomPageController');
 });
