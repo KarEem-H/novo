@@ -59,7 +59,7 @@
                                     <div class="navbar-end">
                                         <div class="navbar-item
                                                 navbar-dropdown-header">
-                                            <div class="funnel-badge
+                                            <!-- <div class="funnel-badge
                                                     mini-button" style="align-self: center;
                                                     margin-right: 10px;"><a class="button is-small
                                                         has-text-black38
@@ -70,8 +70,8 @@
                                                             is-uppercase
                                                             has-text-white">Book
                                                         Now</p>
-                                                </a></div>
-                                            <div class="funnel-badge"><span id="login-btn" class="button is-small
+                                                </a></div> -->
+                                            <!-- <div class="funnel-badge"><span id="login-btn" class="button is-small
                                                         has-text-black38
                                                         is-uppercase is-rounded
                                                         is-transparent
@@ -82,7 +82,7 @@
                                                             has-text-black60">Login</p><img
                                                         src="/home_assets/page_assets/assets/images/avatar.svg" alt="Image" class="avatar
                                                             has-margin-left">
-                                                </span></div>
+                                                </span></div> -->
                                         </div>
                                     </div>
                                 </div>
@@ -198,7 +198,7 @@
                                                             service in UAE
                                                             starting from
                                                             AED 30 per hour</h2>
-                                                        <div class="is-flex
+                                                        <!-- <div class="is-flex
                                                                 book-now-container"><a
                                                                 href="/home_assets/page_assets/service/home_cleaning"><button class="button
                                                                         is-rounded
@@ -208,7 +208,7 @@
                                                                         has-width
                                                                         is-secondary
                                                                         has-text-white">BOOK
-                                                                    NOW</button></a></div>
+                                                                    NOW</button></a></div> -->
                                                     </div>
                                                 </div>
                                                 <div class="column right-side
@@ -225,7 +225,7 @@
                                         <h3 class="h3-text-item
                                                 has-margin-bottom
                                                 has-text-centered
-                                                has-text-black87">Book Our
+                                                has-text-black87">Our
                                             Services</h3>
                                         <div class="seo-links-container
                                                 is-relative">
@@ -246,7 +246,7 @@
                                                             <p class="caption-text-item
                                                                     description
                                                                     has-text-black60">Includes cleaning services, deep cleaning, regular and part time maids.</p>
-                                                            <div class="funnel-badge
+                                                            <!-- <div class="funnel-badge
                                                                     mini-button"><a class="button
                                                                         is-small
                                                                         has-text-black38
@@ -261,7 +261,7 @@
                                                                             is-small
                                                                             has-text-white"><i class="fas
                                                                                 fa-chevron-right"></i></span>
-                                                                </a></div>
+                                                                </a></div> -->
                                                         </div>
                                                     </div>
                                                 </div>
@@ -279,7 +279,7 @@
                                                             <p class="caption-text-item
                                                                     description
                                                                     has-text-black60">Includes plumbing, ac repair, duct cleaning, pool maintenance and more.</p>
-                                                            <div class="funnel-badge
+                                                            <!-- <div class="funnel-badge
                                                                     mini-button"><a class="button
                                                                         is-small
                                                                         has-text-black38
@@ -294,7 +294,7 @@
                                                                             is-small
                                                                             has-text-white"><i class="fas
                                                                                 fa-chevron-right"></i></span>
-                                                                </a></div>
+                                                                </a></div> -->
                                                         </div>
                                                     </div>
                                                 </div>
@@ -313,7 +313,7 @@
                                                             <p class="caption-text-item
                                                                     description
                                                                     has-text-black60">We provide professional moving and packing services in dubai. We dont just pack your home, we pack your comfort.</p>
-                                                            <div class="funnel-badge
+                                                            <!-- <div class="funnel-badge
                                                                     mini-button"><a class="button
                                                                         is-small
                                                                         has-text-black38
@@ -328,7 +328,7 @@
                                                                             is-small
                                                                             has-text-white"><i class="fas
                                                                                 fa-chevron-right"></i></span>
-                                                                </a></div>
+                                                                </a></div> -->
                                                         </div>
                                                     </div>
                                                 </div>
@@ -347,7 +347,7 @@
                                                             <p class="caption-text-item
                                                                     description
                                                                     has-text-black60">We provide professional moving and packing services in dubai. We dont just pack your home, we pack your comfort.</p>
-                                                            <div class="funnel-badge
+                                                            <!-- <div class="funnel-badge
                                                                     mini-button"><a class="button
                                                                         is-small
                                                                         has-text-black38
@@ -362,7 +362,7 @@
                                                                             is-small
                                                                             has-text-white"><i class="fas
                                                                                 fa-chevron-right"></i></span>
-                                                                </a></div>
+                                                                </a></div> -->
                                                         </div>
                                                     </div>
                                                 </div>
@@ -381,7 +381,7 @@
                                                             <p class="caption-text-item
                                                                     description
                                                                     has-text-black60">We provide a wide range of hospitality services which includes manpower deployment, trainings, certifications and more.</p>
-                                                            <div class="funnel-badge
+                                                            <!-- <div class="funnel-badge
                                                                     mini-button"><a class="button
                                                                         is-small
                                                                         has-text-black38
@@ -396,7 +396,7 @@
                                                                             is-small
                                                                             has-text-white"><i class="fas
                                                                                 fa-chevron-right"></i></span>
-                                                                </a></div>
+                                                                </a></div> -->
                                                         </div>
                                                     </div>
                                                 </div>
@@ -415,7 +415,7 @@
                                                             <p class="caption-text-item
                                                                     description
                                                                     has-text-black60">We provide a wide range of hospitality services which includes manpower deployment, trainings, certifications and more.</p>
-                                                            <div class="funnel-badge
+                                                            <!-- <div class="funnel-badge
                                                                     mini-button"><a class="button
                                                                         is-small
                                                                         has-text-black38
@@ -430,7 +430,7 @@
                                                                             is-small
                                                                             has-text-white"><i class="fas
                                                                                 fa-chevron-right"></i></span>
-                                                                </a></div>
+                                                                </a></div> -->
                                                         </div>
                                                     </div>
                                                 </div>
