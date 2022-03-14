@@ -22906,7 +22906,7 @@ button:focus {
     .main-wrapper.lang {
         padding-top: 3rem;
     }
-    .love-taskfoxserivces .reasons .reason .is-flex {
+    .love-novoserivces .reasons .reason .is-flex {
         align-items: center;
         justify-content: center;
     }
@@ -23303,7 +23303,7 @@ button:focus {
 
 .wrapper.book-services-section,
 .wrapper.insurance-section,
-.wrapper.love-taskfoxserivces-section,
+.wrapper.love-novoserivces-section,
 .wrapper.middle-section,
 .wrapper.mobile-app-downloader-section,
 .wrapper.testimonials-section {
@@ -23348,15 +23348,15 @@ button:focus {
     padding-bottom: 0;
 }
 
-.wrapper.love-taskfoxserivces-section.en {
-    /* background: url(../images/love-taskfoxserivces-bgn.jpg) no-repeat 50%; */
-    background: url(../images/love-taskfoxserivces-bgn-new.webp) no-repeat 100%;
+.wrapper.love-novoserivces-section.en {
+    /* background: url(../images/love-novoserivces-bgn.jpg) no-repeat 50%; */
+    background: url(../images/love-novoserivces-bgn-new.webp) no-repeat 100%;
     background-size: cover;
     position: relative;
 }
 
-.wrapper.love-taskfoxserivces-section.ar {
-    background: url(../images/love-taskfoxserivces-bg-ar.jpg) no-repeat 50%;
+.wrapper.love-novoserivces-section.ar {
+    background: url(../images/love-novoserivces-bg-ar.jpg) no-repeat 50%;
     background-size: cover;
 }
 
@@ -23413,8 +23413,8 @@ button:focus {
         min-height: inherit;
         background: none;
     }
-    .wrapper.love-taskfoxserivces-section.ar.visible {
-        background: url(../images/love-taskfoxserivces-bgn.jpg) no-repeat 50%;
+    .wrapper.love-novoserivces-section.ar.visible {
+        background: url(../images/love-novoserivces-bgn.jpg) no-repeat 50%;
         background-size: cover;
     }
     .wrapper.welcome.ar.visible {
@@ -23815,66 +23815,66 @@ img {
     position: relative;
 }
 
-.love-taskfoxserivces {
+.love-novoserivces {
     padding: 5rem 0;
     width: 50%;
 }
 
-.love-taskfoxserivces> :first-child {
+.love-novoserivces> :first-child {
     margin-bottom: 0.5rem;
 }
 
-.love-taskfoxserivces> :nth-child(2) {
+.love-novoserivces> :nth-child(2) {
     margin-bottom: 2.5rem;
 }
 
-.love-taskfoxserivces .reasons .reason {
+.love-novoserivces .reasons .reason {
     width: 50%;
 }
 
-.love-taskfoxserivces .reasons .reason> :first-child {
+.love-novoserivces .reasons .reason> :first-child {
     margin-bottom: 1rem;
 }
 
-.love-taskfoxserivces .reasons .top {
+.love-novoserivces .reasons .top {
     margin-bottom: 3.5rem;
 }
 
-.love-taskfoxserivces .reasons .top> :first-child.en {
+.love-novoserivces .reasons .top> :first-child.en {
     margin-right: 1.5rem;
 }
 
-.love-taskfoxserivces .reasons .top> :first-child.ar {
+.love-novoserivces .reasons .top> :first-child.ar {
     margin-left: 1.5rem;
 }
 
-.love-taskfoxserivces .reasons .bottom> :first-child.en {
+.love-novoserivces .reasons .bottom> :first-child.en {
     margin-right: 1.5rem;
 }
 
-.love-taskfoxserivces .reasons .bottom> :first-child.ar {
+.love-novoserivces .reasons .bottom> :first-child.ar {
     margin-left: 1.5rem;
 }
 
 @media screen and (max-width: 1023px) {
-    .love-taskfoxserivces {
+    .love-novoserivces {
         padding: 5rem 1.5rem;
         text-align: center;
         width: 100%;
     }
-    .love-taskfoxserivces .reasons .bottom,
-    .love-taskfoxserivces .reasons .top {
+    .love-novoserivces .reasons .bottom,
+    .love-novoserivces .reasons .top {
         -webkit-box-orient: vertical;
         -webkit-box-direction: normal;
         flex-direction: column;
     }
-    .love-taskfoxserivces .reasons .top {
+    .love-novoserivces .reasons .top {
         margin-bottom: 1.5rem;
     }
-    .love-taskfoxserivces .reasons .reason {
+    .love-novoserivces .reasons .reason {
         width: 100%;
     }
-    .love-taskfoxserivces .reasons .reason:not(:last-child) {
+    .love-novoserivces .reasons .reason:not(:last-child) {
         margin-bottom: 1.5rem;
     }
 }
@@ -27201,7 +27201,7 @@ screen and (min-width: 769px) {
         font-size: 12px;
     }
 
-    .wrapper.love-taskfoxserivces-section.en:before {
+    .wrapper.love-novoserivces-section.en:before {
         position: absolute;
         content: '';
         left: 0;
@@ -27211,7 +27211,7 @@ screen and (min-width: 769px) {
         height: 100%;
     }
     
-    .wrapper.love-taskfoxserivces-section.en .container {
+    .wrapper.love-novoserivces-section.en .container {
         z-index: 8;
         position: relative;
     }

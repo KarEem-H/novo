@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <rect id="a" width="558" height="737" rx="8"/>
+    </defs>
+    <g fill="transparent" fill-rule="evenodd">
+        <g transform="translate(-234 -371)">
+            <path fill="#8CA0B3" d="M244.725 376l-1.618 1.633 5.318 5.367-5.318 5.367 1.618 1.633 6.937-7z"/>
+        </g>
+    </g>
+</svg>

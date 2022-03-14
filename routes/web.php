@@ -19,6 +19,21 @@
 Route::get('/', function () {
     return view('home.index');
 });
+Route::get('/terms_conditions', function () {
+    return view('home.terms');
+});
+Route::get('/privacy_policy', function () {
+    return view('home.privacy_policy');
+});
+Route::get('/payment_refund_policy', function () {
+    return view('home.payment_policy');
+});
+Route::get('/about-us', function () {
+    return view('home.aboutus');
+});
+Route::get('/support', function () {
+    return view('home.support');
+});
 
 Route::get('login/{service}', 'Auth\LoginController@redirectToProvider');
 Route::get('login/{service}/callback', 'Auth\LoginController@handleProviderCallback');
