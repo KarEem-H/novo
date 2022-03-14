@@ -225,8 +225,7 @@
                                                         of the delivery of the service.</p>
                                                 </li>
                                                 <li>
-                                                    <p>Charges for No Shows are applied once our agent notified Task
-                                                        Fox.</p>
+                                                    <p>Charges for No Shows are applied once our agent notified NOVO.</p>
                                                 </li>
                                             </ul>
                                         </div>
