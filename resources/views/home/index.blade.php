@@ -154,10 +154,13 @@
                                                                     class="lazy"></div>
                                                             <p class="subtitle-text-item
                                                                     has-text-black-87
-                                                                    is-uppercase">Home Services</p>
+                                                                    is-uppercase">AC Repair</p>
                                                             <p class="caption-text-item
                                                                     description
-                                                                    has-text-black60">Includes cleaning services, deep cleaning, regular and part time maids.</p>
+                                                                    has-text-black60">is malfunctioning, non-operational, creating abnormal noise.</p>
+                                                            <p class="caption-text-item
+                                                                    description
+                                                                    has-text-black60">The room temperature is higher than the set point (25°C or higher).</p>
                                                             <!-- <div class="funnel-badge
                                                                     mini-button"><a class="button
                                                                         is-small
@@ -187,10 +190,13 @@
                                                                     class="lazy"></div>
                                                             <p class="subtitle-text-item
                                                                     has-text-black-87
-                                                                    is-uppercase">Maintenance Services</p>
+                                                                    is-uppercase">AC Soft Cleaning</p>
                                                             <p class="caption-text-item
                                                                     description
-                                                                    has-text-black60">Includes plumbing, ac repair, duct cleaning, pool maintenance and more.</p>
+                                                                    has-text-black60">Keeps indoor AC units in top working condition.</p>
+                                                            <p class="caption-text-item
+                                                                    description
+                                                                    has-text-black60">Recommended every 3-4 months.</p>
                                                             <!-- <div class="funnel-badge
                                                                     mini-button"><a class="button
                                                                         is-small
@@ -221,10 +227,13 @@
                                                                     class="lazy"></div>
                                                             <p class="subtitle-text-item
                                                                     has-text-black-87
-                                                                    is-uppercase">Movers & Packers</p>
+                                                                    is-uppercase">AC Duct Cleaning</p>
                                                             <p class="caption-text-item
                                                                     description
-                                                                    has-text-black60">We provide professional moving and packing services in dubai. We dont just pack your home, we pack your comfort.</p>
+                                                                    has-text-black60">When in doubt that the Indoor Air Quality has been compromised.</p>
+                                                            <p class="caption-text-item
+                                                                    description
+                                                                    has-text-black60">Recommended once every year.</p>
                                                             <!-- <div class="funnel-badge
                                                                     mini-button"><a class="button
                                                                         is-small
@@ -255,10 +264,13 @@
                                                                     class="lazy"></div>
                                                             <p class="subtitle-text-item
                                                                     has-text-black-87
-                                                                    is-uppercase">Movers & Packers</p>
+                                                                    is-uppercase">AC Deep Cleaning</p>
                                                             <p class="caption-text-item
                                                                     description
-                                                                    has-text-black60">We provide professional moving and packing services in dubai. We dont just pack your home, we pack your comfort.</p>
+                                                                    has-text-black60">An extension of AC soft cleaning that involves cleaning & disinfection of the AC coil.</p>
+                                                            <p class="caption-text-item
+                                                                    description
+                                                                    has-text-black60">Recommended every 6-8 months.</p>
                                                             <!-- <div class="funnel-badge
                                                                     mini-button"><a class="button
                                                                         is-small
@@ -289,10 +301,10 @@
                                                                     class="lazy"></div>
                                                             <p class="subtitle-text-item
                                                                     has-text-black-87
-                                                                    is-uppercase">Hospitality Services</p>
+                                                                    is-uppercase">AC Maintenance</p>
                                                             <p class="caption-text-item
                                                                     description
-                                                                    has-text-black60">We provide a wide range of hospitality services which includes manpower deployment, trainings, certifications and more.</p>
+                                                                    has-text-black60">When your AC is not performing as effectively as it used to be. Your AC is running normally but not achieving the set temperature.</p>
                                                             <!-- <div class="funnel-badge
                                                                     mini-button"><a class="button
                                                                         is-small
@@ -312,40 +324,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="seo-link-item-container
-                                                        slick-item">
-                                                    <div href="#" class="seo-link en">
-                                                        <div class="seo-link-item">
-                                                            <div class="icon
-                                                                    img"><img alt="Disinfection
-                                                                        Service"
-                                                                    src="/home_assets/page_assets/assets/images/hospitality_Services.png"
-                                                                    class="lazy"></div>
-                                                            <p class="subtitle-text-item
-                                                                    has-text-black-87
-                                                                    is-uppercase">Hospitality Services</p>
-                                                            <p class="caption-text-item
-                                                                    description
-                                                                    has-text-black60">We provide a wide range of hospitality services which includes manpower deployment, trainings, certifications and more.</p>
-                                                            <!-- <div class="funnel-badge
-                                                                    mini-button"><a class="button
-                                                                        is-small
-                                                                        has-text-black38
-                                                                        is-uppercase
-                                                                        is-rounded
-                                                                        is-primary">
-                                                                    <p class="helper-text-item
-                                                                            is-uppercase
-                                                                            has-text-white">Book
-                                                                        Now</p>
-                                                                    <span class="icon
-                                                                            is-small
-                                                                            has-text-white"><i class="fas
-                                                                                fa-chevron-right"></i></span>
-                                                                </a></div> -->
-                                                        </div>
-                                                    </div>
-                                                </div>
+                                             
                                                 <!-- <div class="seo-link-item-container
                                                         slick-item">
                                                     <div href="#" class="seo-link en">
@@ -512,8 +491,7 @@
                                                 <h3 class="h3-text-item
                                                         has-text-centered
                                                         has-text-black87">What
-                                                    Customers Say About Task
-                                                    Fox</h3>
+                                                    Customers Say  About Novo<Task/h3>
                                             </div>
                                         </div>
                                     </div>
