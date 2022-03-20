@@ -154,123 +154,21 @@
                                                                     class="lazy"></div>
                                                             <p class="subtitle-text-item
                                                                     has-text-black-87
-                                                                    is-uppercase">AC Repair</p>
+                                                                    is-uppercase">Air Conditioning </p>
                                                             <p class="caption-text-item
                                                                     description
-                                                                    has-text-black60">is malfunctioning, non-operational, creating abnormal noise.</p>
+                                                                    has-text-black60">NOVO AC Repairing provide you best 
+                                                                                        Professional </p>
                                                             <p class="caption-text-item
                                                                     description
-                                                                    has-text-black60">The room temperature is higher than the set point (25°C or higher).</p>
-                                                            <!-- <div class="funnel-badge
-                                                                    mini-button"><a class="button
-                                                                        is-small
-                                                                        has-text-black38
-                                                                        is-uppercase
-                                                                        is-rounded
-                                                                        is-primary">
-                                                                    <p class="helper-text-item
-                                                                            is-uppercase
-                                                                            has-text-white">Book
-                                                                        Now</p>
-                                                                    <span class="icon
-                                                                            is-small
-                                                                            has-text-white"><i class="fas
-                                                                                fa-chevron-right"></i></span>
-                                                                </a></div> -->
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="seo-link-item-container
-                                                        slick-item">
-                                                    <div href="#" class="seo-link en">
-                                                        <div class="seo-link-item">
-                                                            <div class="icon
-                                                                    img"><img alt="Disinfection
-                                                                        Service" src="/home_assets/page_assets/assets/images/maintenance-services.png"
-                                                                    class="lazy"></div>
-                                                            <p class="subtitle-text-item
-                                                                    has-text-black-87
-                                                                    is-uppercase">AC Soft Cleaning</p>
+                                                                    has-text-black60">Handyman Services in 
+                                                                                        UAE to make your Apartment, Villa, 
+                                                                                        Office</p>
                                                             <p class="caption-text-item
                                                                     description
-                                                                    has-text-black60">Keeps indoor AC units in top working condition.</p>
-                                                            <p class="caption-text-item
-                                                                    description
-                                                                    has-text-black60">Recommended every 3-4 months.</p>
-                                                            <!-- <div class="funnel-badge
-                                                                    mini-button"><a class="button
-                                                                        is-small
-                                                                        has-text-black38
-                                                                        is-uppercase
-                                                                        is-rounded
-                                                                        is-primary">
-                                                                    <p class="helper-text-item
-                                                                            is-uppercase
-                                                                            has-text-white">Book
-                                                                        Now</p>
-                                                                    <span class="icon
-                                                                            is-small
-                                                                            has-text-white"><i class="fas
-                                                                                fa-chevron-right"></i></span>
-                                                                </a></div> -->
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="seo-link-item-container
-                                                        slick-item">
-                                                    <div href="#" class="seo-link en">
-                                                        <div class="seo-link-item">
-                                                            <div class="icon
-                                                                    img"><img alt="Disinfection
-                                                                        Service"
-                                                                    src="/home_assets/page_assets/assets/images/movers_packers.png"
-                                                                    class="lazy"></div>
-                                                            <p class="subtitle-text-item
-                                                                    has-text-black-87
-                                                                    is-uppercase">AC Duct Cleaning</p>
-                                                            <p class="caption-text-item
-                                                                    description
-                                                                    has-text-black60">When in doubt that the Indoor Air Quality has been compromised.</p>
-                                                            <p class="caption-text-item
-                                                                    description
-                                                                    has-text-black60">Recommended once every year.</p>
-                                                            <!-- <div class="funnel-badge
-                                                                    mini-button"><a class="button
-                                                                        is-small
-                                                                        has-text-black38
-                                                                        is-uppercase
-                                                                        is-rounded
-                                                                        is-primary">
-                                                                    <p class="helper-text-item
-                                                                            is-uppercase
-                                                                            has-text-white">Book
-                                                                        Now</p>
-                                                                    <span class="icon
-                                                                            is-small
-                                                                            has-text-white"><i class="fas
-                                                                                fa-chevron-right"></i></span>
-                                                                </a></div> -->
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="seo-link-item-container
-                                                        slick-item">
-                                                    <div href="#" class="seo-link en">
-                                                        <div class="seo-link-item">
-                                                            <div class="icon
-                                                                    img"><img alt="Disinfection
-                                                                        Service"
-                                                                    src="/home_assets/page_assets/assets/images/movers_packers.png"
-                                                                    class="lazy"></div>
-                                                            <p class="subtitle-text-item
-                                                                    has-text-black-87
-                                                                    is-uppercase">AC Deep Cleaning</p>
-                                                            <p class="caption-text-item
-                                                                    description
-                                                                    has-text-black60">An extension of AC soft cleaning that involves cleaning & disinfection of the AC coil.</p>
-                                                            <p class="caption-text-item
-                                                                    description
-                                                                    has-text-black60">Recommended every 6-8 months.</p>
+                                                                    has-text-black60">Warehouse very well 
+                                                                                        working.</p>
+                                                           
                                                             <!-- <div class="funnel-badge
                                                                     mini-button"><a class="button
                                                                         is-small
@@ -324,6 +222,130 @@
                                                         </div>
                                                     </div>
                                                 </div>
+                                                <div class="seo-link-item-container
+                                                        slick-item">
+                                                    <div href="#" class="seo-link en">
+                                                        <div class="seo-link-item">
+                                                            <div class="icon
+                                                                    img"><img alt="Disinfection
+                                                                        Service" src="/home_assets/page_assets/assets/images/maintenance-services.png"
+                                                                    class="lazy"></div>
+                                                            <p class="subtitle-text-item
+                                                                    has-text-black-87
+                                                                    is-uppercase">Plumbing</p>
+                                                            <p class="caption-text-item
+                                                                    description
+                                                                    has-text-black60">We are ready to respond to all plumbing needs in a home.</p>
+                                                            <p class="caption-text-item
+                                                                    description
+                                                                    has-text-black60">Our specialists are focused on providing 
+                                                                                        the best solution for your home to be 
+                                                                                        water safe proofed and functional.</p>
+                                                            <!-- <div class="funnel-badge
+                                                                    mini-button"><a class="button
+                                                                        is-small
+                                                                        has-text-black38
+                                                                        is-uppercase
+                                                                        is-rounded
+                                                                        is-primary">
+                                                                    <p class="helper-text-item
+                                                                            is-uppercase
+                                                                            has-text-white">Book
+                                                                        Now</p>
+                                                                    <span class="icon
+                                                                            is-small
+                                                                            has-text-white"><i class="fas
+                                                                                fa-chevron-right"></i></span>
+                                                                </a></div> -->
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="seo-link-item-container
+                                                        slick-item">
+                                                    <div href="#" class="seo-link en">
+                                                        <div class="seo-link-item">
+                                                            <div class="icon
+                                                                    img"><img alt="Disinfection
+                                                                        Service"
+                                                                    src="/home_assets/page_assets/assets/images/movers_packers.png"
+                                                                    class="lazy"></div>
+                                                            <p class="subtitle-text-item
+                                                                    has-text-black-87
+                                                                    is-uppercase">Electrical</p>
+                                                            <p class="caption-text-item
+                                                                    description
+                                                                    has-text-black60">We have expertise in all electrical works, 
+                                                                                        indoor and outdoor installations. </p>
+                                                            <p class="caption-text-item
+                                                                    description
+                                                                    has-text-black60">We do internal and external wiring, 
+                                                                                    switch gear maintenance, panel boards, 
+                                                                                    installation of ELCB and other electrical 
+                                                                                    works.
+                                                                                    </p>
+                                                            <!-- <div class="funnel-badge
+                                                                    mini-button"><a class="button
+                                                                        is-small
+                                                                        has-text-black38
+                                                                        is-uppercase
+                                                                        is-rounded
+                                                                        is-primary">
+                                                                    <p class="helper-text-item
+                                                                            is-uppercase
+                                                                            has-text-white">Book
+                                                                        Now</p>
+                                                                    <span class="icon
+                                                                            is-small
+                                                                            has-text-white"><i class="fas
+                                                                                fa-chevron-right"></i></span>
+                                                                </a></div> -->
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="seo-link-item-container
+                                                        slick-item">
+                                                    <div href="#" class="seo-link en">
+                                                        <div class="seo-link-item">
+                                                            <div class="icon
+                                                                    img"><img alt="Disinfection
+                                                                        Service"
+                                                                    src="/home_assets/page_assets/assets/images/movers_packers.png"
+                                                                    class="lazy"></div>
+                                                            <p class="subtitle-text-item
+                                                                    has-text-black-87
+                                                                    is-uppercase">Handyman</p>
+                                                            <p class="caption-text-item
+                                                                    description
+                                                                    has-text-black60">Our handyman services cover everything 
+                                                                                        from changing a light bulb to putting up
+                                                                                        shelves, fixing furniture or create 
+                                                                                        customized solution for every challenge 
+                                                                                        you find in your home. </p>
+                                                            <p class="caption-text-item
+                                                                    description
+                                                                    has-text-black60">With this service we take care of the time 
+                                                                                        consuming jobs so that you can enjoy 
+                                                                                        your home stress free.</p>
+                                                            <!-- <div class="funnel-badge
+                                                                    mini-button"><a class="button
+                                                                        is-small
+                                                                        has-text-black38
+                                                                        is-uppercase
+                                                                        is-rounded
+                                                                        is-primary">
+                                                                    <p class="helper-text-item
+                                                                            is-uppercase
+                                                                            has-text-white">Book
+                                                                        Now</p>
+                                                                    <span class="icon
+                                                                            is-small
+                                                                            has-text-white"><i class="fas
+                                                                                fa-chevron-right"></i></span>
+                                                                </a></div> -->
+                                                        </div>
+                                                    </div>
+                                                </div>
+
                                              
                                                 <!-- <div class="seo-link-item-container
                                                         slick-item">

@@ -23142,7 +23142,7 @@ button:focus {
 }
 
 .logo img {
-    width: 200px;
+    width: 155px;
     height: auto;
     margin-top: 5px;
     transition: ease all 0.3s;
@@ -24376,7 +24376,7 @@ img {
 
 .wrapper.footer {
     /* background-color: #4756a6; */
-    background-color: #0d3e4d;
+    background-color: #20272B;
     padding: 2.5rem 0;
 }
 
