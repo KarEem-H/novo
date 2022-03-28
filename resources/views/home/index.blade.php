@@ -97,30 +97,15 @@
                                                         <h1 class="h1-text-item
                                                                 has-margin
                                                                 is-hidden-touch
-                                                                has-text-black87">Hospitality Services.
-                                                            Home Services.
-                                                            Engineering Services.<br>
-                                                            Call us Now: 800 HME (463)</h1>
+                                                                has-text-black87">
+                                                                <span style="font-size: 2.75rem; FONT-WEIGHT: 550; ">CONTRACTING & <br>GENERAL MAINTENANCE ESTABLISHMENT</span><br>
+                                                                “Your comfort is our goal”<br><br>
+                                                                <span style="font-size: 2rem; FONT-WEIGHT: 550;">Call us Now: +971 564090904</span>  </h1>
                                                         <h2 class="h2-text-item
                                                                 has-margin
                                                                 is-hidden-desktop
                                                                 has-text-black87
-                                                                has-text-centered">Your
-                                                            trusted home
-                                                            service in UAE
-                                                            starting from
-                                                            AED 30 per hour</h2>
-                                                        <!-- <div class="is-flex
-                                                                book-now-container"><a
-                                                                href="/home_assets/page_assets/service/home_cleaning"><button class="button
-                                                                        is-rounded
-                                                                        is-uppercase
-                                                                        has-text-white
-                                                                        has-text-weight-bold
-                                                                        has-width
-                                                                        is-secondary
-                                                                        has-text-white">BOOK
-                                                                    NOW</button></a></div> -->
+                                                                has-text-centered">CONTRACTING & GENERAL MAINTENANCE ESTABLISHMENT <br>“Your comfort is our goal”</h2>
                                                     </div>
                                                 </div>
                                                 <div class="column right-side
@@ -131,8 +116,73 @@
                                     <div class="hero-bottom"></div>
                                 </div>
                             </div>
+                            @php 
+                                $servicesArray=[
+                                    "1"=>[
+                                        "icon" =>"/home_assets/page_assets/assets/images/movers_packers.png",
+                                        "title" =>"CONTRACTING",
+                                        "smallDescription"=>"Committed to superior quality and results",
+                                        "description"=>"we are available to execute and complete any
+                                                            projects in time.
+                                                            Should the need arise for increased manpower
+                                                            deployed, we have the access to the group’s vast
+                                                            resources to supplement its work force.
+                                                            We have the Experience, the Resources and the
+                                                            Quality Consciousness required executing any
+                                                            project you may consider us for"
+                                        ],
+                                    "2"=>[
+                                        "icon" =>"assets/images/furnitures.png",
+                                        "title" =>"INTERIOR",
+                                        "smallDescription"=>"Intelligent design for every lifestyle",
+                                        "description"=>"Are you ready for a change in your design style?
+                                                        Aiming for a unique and modern touch to your
+                                                        business or home?
+                                                        With NOVO visualize what it feels like when you can
+                                                        rely on an interior, architecture, with the complete
+                                                        end-to-end service of crafting your own custom
+                                                        design and making it happen!"
+                                        ],
+                                    "3"=>[
+                                        "icon" =>"/home_assets/page_assets/assets/images/hospitality_Services.png",
+                                        "title" =>"A/C Repair, Service & Coil Cleaning.",
+                                        "smallDescription"=>"All maintenance works carried out with precision on time",
+                                        "description"=>"NOVO AC Repairing provides you best Professional Handyman Services in UAE to make your Apartment, Villa, Office, and Warehouse very well working.
+                                                        When it comes to home comfort during the warmer months in UAE, your air conditioner plays a huge role."
+                                        ],
+                                 
+                                    "4"=>[
+                                        "icon" =>"assets/images/home_services.png",
+                                        "title" =>"GENERAL MAINTENANCE - Handyman",
+                                        "smallDescription"=>"IT ALWAYS SEEMS IMPOSSIBLE UNTIL IT’S DONE",
+                                        "description"=>"Our handyman services cover everything
+                                                        from changing a light bulb to putting up
+                                                        shelves, fixing furniture or create
+                                                        customized solution for every challenge
+                                                        you find in your home.
+                                                        With this service we take care of the time
+                                                        consuming jobs so that you can enjoy
+                                                        your home stress free."
+                                        ],
+                                    "5"=>[
+                                        "icon" =>"/home_assets/page_assets/assets/images/maintenance-services.png",
+                                        "title" =>"GENERAL MAINTENANCE - Plumbing",
+                                        "smallDescription"=>"ACCURACY OF OUR APPROACH TO WORK",
+                                        "description"=>"We are ready to respond to all plumbing needs in a home.
+                                                        Our specialists are focused on providing the best solution for your home to be water safe proofed and functional."
+                                        ],
+                                    "6"=>[
+                                        "icon" =>"assets/images/electricity.png",
+                                        "title" =>"GENERAL MAINTENANCE - Electrical",
+                                        "smallDescription"=>"IT ALWAYS SEEMS IMPOSSIBLE UNTIL IT’S DONE",
+                                        "description"=>"We have expertise in all electrical works, indoor and outdoor installations.
+                                                        We do internal and external wiring, switch gear maintenance, panel boards, installation of ELCB and other electrical works."
+                                        ],
+                        
+                                    ]
+                                @endphp
                             <div class="wrapper middle-section">
-                                <div class="container">
+                                <div class="container" style="overflow-x: auto;">
                                     <div>
                                         <h3 class="h3-text-item
                                                 has-margin-bottom
@@ -142,7 +192,9 @@
                                         <div class="seo-links-container
                                                 is-relative">
                                             <div class="seo-links seo-slider
-                                                    is-flex">
+                                                    is-flex" style="overflow-x: auto;">
+                                                    
+                                                    @foreach( $servicesArray as $key => $service)
                                                 <div class="seo-link-item-container
                                                         slick-item">
                                                     <div href="#" class="seo-link en">
@@ -150,284 +202,22 @@
                                                             <div class="icon
                                                                     img"><img alt="Disinfection
                                                                         Service"
-                                                                    src="assets/images/home_services.png"
+                                                                    src="{{$service['icon']}}"
                                                                     class="lazy"></div>
                                                             <p class="subtitle-text-item
                                                                     has-text-black-87
-                                                                    is-uppercase">Air Conditioning </p>
+                                                                    is-uppercase">{{$service["title"]}} </p>
                                                             <p class="caption-text-item
                                                                     description
-                                                                    has-text-black60">NOVO AC Repairing provide you best 
-                                                                                        Professional </p>
-                                                            <p class="caption-text-item
-                                                                    description
-                                                                    has-text-black60">Handyman Services in 
-                                                                                        UAE to make your Apartment, Villa, 
-                                                                                        Office</p>
-                                                            <p class="caption-text-item
-                                                                    description
-                                                                    has-text-black60">Warehouse very well 
-                                                                                        working.</p>
+                                                                    has-text-black-87 is-uppercase">{{$service["smallDescription"]}} </p><br>
+                                                            <p class="caption-text-item">{{$service["description"]}}  </p>
                                                            
-                                                            <!-- <div class="funnel-badge
-                                                                    mini-button"><a class="button
-                                                                        is-small
-                                                                        has-text-black38
-                                                                        is-uppercase
-                                                                        is-rounded
-                                                                        is-primary">
-                                                                    <p class="helper-text-item
-                                                                            is-uppercase
-                                                                            has-text-white">Book
-                                                                        Now</p>
-                                                                    <span class="icon
-                                                                            is-small
-                                                                            has-text-white"><i class="fas
-                                                                                fa-chevron-right"></i></span>
-                                                                </a></div> -->
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="seo-link-item-container
-                                                        slick-item">
-                                                    <div href="#" class="seo-link en">
-                                                        <div class="seo-link-item">
-                                                            <div class="icon
-                                                                    img"><img alt="Disinfection
-                                                                        Service"
-                                                                    src="/home_assets/page_assets/assets/images/hospitality_Services.png"
-                                                                    class="lazy"></div>
-                                                            <p class="subtitle-text-item
-                                                                    has-text-black-87
-                                                                    is-uppercase">AC Maintenance</p>
-                                                            <p class="caption-text-item
-                                                                    description
-                                                                    has-text-black60">When your AC is not performing as effectively as it used to be. Your AC is running normally but not achieving the set temperature.</p>
-                                                            <!-- <div class="funnel-badge
-                                                                    mini-button"><a class="button
-                                                                        is-small
-                                                                        has-text-black38
-                                                                        is-uppercase
-                                                                        is-rounded
-                                                                        is-primary">
-                                                                    <p class="helper-text-item
-                                                                            is-uppercase
-                                                                            has-text-white">Book
-                                                                        Now</p>
-                                                                    <span class="icon
-                                                                            is-small
-                                                                            has-text-white"><i class="fas
-                                                                                fa-chevron-right"></i></span>
-                                                                </a></div> -->
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="seo-link-item-container
-                                                        slick-item">
-                                                    <div href="#" class="seo-link en">
-                                                        <div class="seo-link-item">
-                                                            <div class="icon
-                                                                    img"><img alt="Disinfection
-                                                                        Service" src="/home_assets/page_assets/assets/images/maintenance-services.png"
-                                                                    class="lazy"></div>
-                                                            <p class="subtitle-text-item
-                                                                    has-text-black-87
-                                                                    is-uppercase">Plumbing</p>
-                                                            <p class="caption-text-item
-                                                                    description
-                                                                    has-text-black60">We are ready to respond to all plumbing needs in a home.</p>
-                                                            <p class="caption-text-item
-                                                                    description
-                                                                    has-text-black60">Our specialists are focused on providing 
-                                                                                        the best solution for your home to be 
-                                                                                        water safe proofed and functional.</p>
-                                                            <!-- <div class="funnel-badge
-                                                                    mini-button"><a class="button
-                                                                        is-small
-                                                                        has-text-black38
-                                                                        is-uppercase
-                                                                        is-rounded
-                                                                        is-primary">
-                                                                    <p class="helper-text-item
-                                                                            is-uppercase
-                                                                            has-text-white">Book
-                                                                        Now</p>
-                                                                    <span class="icon
-                                                                            is-small
-                                                                            has-text-white"><i class="fas
-                                                                                fa-chevron-right"></i></span>
-                                                                </a></div> -->
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="seo-link-item-container
-                                                        slick-item">
-                                                    <div href="#" class="seo-link en">
-                                                        <div class="seo-link-item">
-                                                            <div class="icon
-                                                                    img"><img alt="Disinfection
-                                                                        Service"
-                                                                    src="/home_assets/page_assets/assets/images/movers_packers.png"
-                                                                    class="lazy"></div>
-                                                            <p class="subtitle-text-item
-                                                                    has-text-black-87
-                                                                    is-uppercase">Electrical</p>
-                                                            <p class="caption-text-item
-                                                                    description
-                                                                    has-text-black60">We have expertise in all electrical works, 
-                                                                                        indoor and outdoor installations. </p>
-                                                            <p class="caption-text-item
-                                                                    description
-                                                                    has-text-black60">We do internal and external wiring, 
-                                                                                    switch gear maintenance, panel boards, 
-                                                                                    installation of ELCB and other electrical 
-                                                                                    works.
-                                                                                    </p>
-                                                            <!-- <div class="funnel-badge
-                                                                    mini-button"><a class="button
-                                                                        is-small
-                                                                        has-text-black38
-                                                                        is-uppercase
-                                                                        is-rounded
-                                                                        is-primary">
-                                                                    <p class="helper-text-item
-                                                                            is-uppercase
-                                                                            has-text-white">Book
-                                                                        Now</p>
-                                                                    <span class="icon
-                                                                            is-small
-                                                                            has-text-white"><i class="fas
-                                                                                fa-chevron-right"></i></span>
-                                                                </a></div> -->
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="seo-link-item-container
-                                                        slick-item">
-                                                    <div href="#" class="seo-link en">
-                                                        <div class="seo-link-item">
-                                                            <div class="icon
-                                                                    img"><img alt="Disinfection
-                                                                        Service"
-                                                                    src="/home_assets/page_assets/assets/images/movers_packers.png"
-                                                                    class="lazy"></div>
-                                                            <p class="subtitle-text-item
-                                                                    has-text-black-87
-                                                                    is-uppercase">Handyman</p>
-                                                            <p class="caption-text-item
-                                                                    description
-                                                                    has-text-black60">Our handyman services cover everything 
-                                                                                        from changing a light bulb to putting up
-                                                                                        shelves, fixing furniture or create 
-                                                                                        customized solution for every challenge 
-                                                                                        you find in your home. </p>
-                                                            <p class="caption-text-item
-                                                                    description
-                                                                    has-text-black60">With this service we take care of the time 
-                                                                                        consuming jobs so that you can enjoy 
-                                                                                        your home stress free.</p>
-                                                            <!-- <div class="funnel-badge
-                                                                    mini-button"><a class="button
-                                                                        is-small
-                                                                        has-text-black38
-                                                                        is-uppercase
-                                                                        is-rounded
-                                                                        is-primary">
-                                                                    <p class="helper-text-item
-                                                                            is-uppercase
-                                                                            has-text-white">Book
-                                                                        Now</p>
-                                                                    <span class="icon
-                                                                            is-small
-                                                                            has-text-white"><i class="fas
-                                                                                fa-chevron-right"></i></span>
-                                                                </a></div> -->
-                                                        </div>
-                                                    </div>
-                                                </div>
-
-                                             
-                                                <!-- <div class="seo-link-item-container
-                                                        slick-item">
-                                                    <div href="#" class="seo-link en">
-                                                        <div class="seo-link-item">
-                                                            <div class="icon
-                                                                    img"><img alt="Disinfection
-                                                                        Service" src="assets/images/sofa-cleaning.png"
-                                                                    class="lazy"></div>
-                                                            <p class="subtitle-text-item
-                                                                    has-text-black-87
-                                                                    is-uppercase">Sofa
-                                                                Cleaning</p>
-                                                            <p class="caption-text-item
-                                                                    description
-                                                                    has-text-black60">Give
-                                                                Your Sofa
-                                                                Plenty Of
-                                                                Sparkle</p>
-                                                            <div class="funnel-badge
-                                                                    mini-button"><a class="button
-                                                                        is-small
-                                                                        has-text-black38
-                                                                        is-uppercase
-                                                                        is-rounded
-                                                                        is-primary">
-                                                                    <p class="helper-text-item
-                                                                            is-uppercase
-                                                                            has-text-white">Book
-                                                                        Now</p>
-                                                                    <span class="icon
-                                                                            is-small
-                                                                            has-text-white"><i class="fas
-                                                                                fa-chevron-right"></i></span>
-                                                                </a></div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="seo-link-item-container
-                                                        slick-item">
-                                                    <div href="#" class="seo-link en">
-                                                        <div class="seo-link-item">
-                                                            <div class="icon
-                                                                    img"><img alt="Disinfection
-                                                                        Service"
-                                                                    src="assets/images/special-request.png"
-                                                                    class="lazy"></div>
-                                                            <p class="subtitle-text-item
-                                                                    has-text-black-87
-                                                                    is-uppercase">REQUEST
-                                                                A QUOTE</p>
-                                                            <p class="caption-text-item
-                                                                    description
-                                                                    has-text-black60">Request
-                                                                a quote for
-                                                                any kind of
-                                                                home
-                                                                services you
-                                                                need. Just
-                                                                fill the
-                                                                form and we
-                                                                will call
-                                                                you back!</p>
-                                                            <div class="funnel-badge
-                                                                    mini-button"><a class="button
-                                                                        is-small
-                                                                        has-text-black38
-                                                                        is-uppercase
-                                                                        is-rounded
-                                                                        is-primary">
-                                                                    <p class="helper-text-item
-                                                                            is-uppercase
-                                                                            has-text-white">Book
-                                                                        Now</p>
-                                                                    <span class="icon
-                                                                            is-small
-                                                                            has-text-white"><i class="fas
-                                                                                fa-chevron-right"></i></span>
-                                                                </a></div>
-                                                        </div>
-                                                    </div> -->
-                                                </div>
+                                                @endforeach
+                                     
+                                               
                                             </div>
                                         </div>
                                     </div>

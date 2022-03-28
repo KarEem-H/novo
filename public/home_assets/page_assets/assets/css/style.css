@@ -24603,11 +24603,11 @@ img {
 }
 
 .seo-link-item-container {
-    height: 316px;
+    height: auto;
 }
 
 .seo-link-item-container:last-child {
-    padding-right: 0.5rem;
+    padding-right: 0.7rem;
 }
 
 .seo-link {
@@ -24625,8 +24625,8 @@ img {
     transition: all 0.5s ease;
     color: inherit;
     display: block;
-    height: 100%;
-    width: 177px;
+    height: auto;
+    width: 250px;
 }
 
 .seo-link.en {

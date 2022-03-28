@@ -160,7 +160,7 @@
                                             </div>
                                         </div>
                                         <div class="support-buttons">
-                                            <div><a href="mailto:support@Novo">
+                                            <div><a href="mailto:info.novo.ae@gmail.com">
                                                     <div class="list-item is-flex height48">
                                                         <div class="is-flex">
                                                             <p class="body-text-item has-text-black87">Email Us</p>
@@ -171,7 +171,7 @@
                                                     </div>
                                                 </a></div>
                                             <div><a target="_blank"
-                                                    href="https://api.whatsapp.com/send?phone=+971585570005">
+                                                    href="https://api.whatsapp.com/send?phone=+971564090904">
                                                     <div class="list-item is-flex height48">
                                                         <div class="is-flex">
                                                             <p class="body-text-item has-text-black87">Chat with us on
@@ -182,7 +182,7 @@
                                                                 class="icon-img"></div>
                                                     </div>
                                                 </a></div>
-                                            <div><a href="tel:+971585570005">
+                                            <div><a href="tel:+971564090904">
                                                     <div class="list-item is-flex height48 has-shadow-none">
                                                         <div class="is-flex">
                                                             <p class="body-text-item has-text-black87">Call Us</p>
@@ -214,10 +214,10 @@
                                             <li><label>Country:</label>
                                                 <p> UAE</p>
                                             </li>
-                                            <li><label>Email:</label><a href="mailto:support@Novo">
-                                                    support@Novo</a></li>
+                                            <li><label>Email:</label><a href="mailto:info.novo.ae@gmail.com">
+                                                    info.novo.ae@gmail.com</a></li>
                                             <li><label>Contact Number:</label><a
-                                                    href="tel:+971585570005">+971585570005</a></li>
+                                                    href="tel:+971564090904">+971564090904</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -250,7 +250,7 @@
                                     </a><a href="https://www.instagram.com/mynovo/" target="_blank">
                                         <p class="caption-text-item has-text-alternate"><i class="fab fa-instagram"></i>
                                         </p>
-                                    </a><a href="https://api.whatsapp.com/send?phone=+971585570005" target="_blank">
+                                    </a><a href="https://api.whatsapp.com/send?phone=+971564090904" target="_blank">
                                         <p class="caption-text-item has-text-alternate"><i class="fab fa-whatsapp"></i>
                                         </p>
                                     </a></div>
